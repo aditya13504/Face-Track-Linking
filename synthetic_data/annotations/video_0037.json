@@ -1,0 +1,1047 @@
+{
+  "video_id": 37,
+  "num_frames": 25,
+  "image_size": [
+    640,
+    480
+  ],
+  "tracks": {
+    "0": {
+      "identity_id": 8,
+      "start_frame": 7,
+      "end_frame": 23,
+      "trajectory": [
+        [
+          367,
+          242
+        ],
+        [
+          365,
+          240
+        ],
+        [
+          362,
+          239
+        ],
+        [
+          360,
+          238
+        ],
+        [
+          357,
+          237
+        ],
+        [
+          354,
+          236
+        ],
+        [
+          351,
+          234
+        ],
+        [
+          348,
+          233
+        ],
+        [
+          346,
+          231
+        ],
+        [
+          343,
+          231
+        ],
+        [
+          341,
+          230
+        ],
+        [
+          338,
+          229
+        ],
+        [
+          335,
+          228
+        ],
+        [
+          332,
+          227
+        ],
+        [
+          329,
+          225
+        ],
+        [
+          326,
+          224
+        ],
+        [
+          322,
+          222
+        ]
+      ]
+    },
+    "1": {
+      "identity_id": 7,
+      "start_frame": 3,
+      "end_frame": 19,
+      "trajectory": [
+        [
+          210,
+          297
+        ],
+        [
+          208,
+          297
+        ],
+        [
+          206,
+          298
+        ],
+        [
+          205,
+          299
+        ],
+        [
+          204,
+          300
+        ],
+        [
+          202,
+          301
+        ],
+        [
+          201,
+          303
+        ],
+        [
+          199,
+          305
+        ],
+        [
+          198,
+          307
+        ],
+        [
+          197,
+          308
+        ],
+        [
+          195,
+          310
+        ],
+        [
+          194,
+          312
+        ],
+        [
+          192,
+          314
+        ],
+        [
+          189,
+          316
+        ],
+        [
+          187,
+          319
+        ],
+        [
+          185,
+          322
+        ],
+        [
+          183,
+          325
+        ]
+      ]
+    },
+    "2": {
+      "identity_id": 10,
+      "start_frame": 9,
+      "end_frame": 21,
+      "trajectory": [
+        [
+          461,
+          373
+        ],
+        [
+          462,
+          375
+        ],
+        [
+          463,
+          377
+        ],
+        [
+          464,
+          379
+        ],
+        [
+          466,
+          382
+        ],
+        [
+          466,
+          384
+        ],
+        [
+          467,
+          387
+        ],
+        [
+          468,
+          391
+        ],
+        [
+          470,
+          394
+        ],
+        [
+          471,
+          398
+        ],
+        [
+          473,
+          402
+        ],
+        [
+          475,
+          406
+        ],
+        [
+          476,
+          410
+        ]
+      ]
+    }
+  },
+  "frames": [
+    {
+      "frame_id": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 1,
+      "detections": []
+    },
+    {
+      "frame_id": 2,
+      "detections": []
+    },
+    {
+      "frame_id": 3,
+      "detections": [
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            154,
+            241,
+            112,
+            112
+          ],
+          "center": [
+            210,
+            297
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 4,
+      "detections": [
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            152,
+            241,
+            112,
+            112
+          ],
+          "center": [
+            208,
+            297
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 5,
+      "detections": [
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            150,
+            242,
+            112,
+            112
+          ],
+          "center": [
+            206,
+            298
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 6,
+      "detections": [
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            149,
+            243,
+            112,
+            112
+          ],
+          "center": [
+            205,
+            299
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 7,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            311,
+            186,
+            112,
+            112
+          ],
+          "center": [
+            367,
+            242
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            148,
+            244,
+            112,
+            112
+          ],
+          "center": [
+            204,
+            300
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 8,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            309,
+            184,
+            112,
+            112
+          ],
+          "center": [
+            365,
+            240
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            146,
+            245,
+            112,
+            112
+          ],
+          "center": [
+            202,
+            301
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 9,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            306,
+            183,
+            112,
+            112
+          ],
+          "center": [
+            362,
+            239
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            145,
+            247,
+            112,
+            112
+          ],
+          "center": [
+            201,
+            303
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            405,
+            317,
+            112,
+            112
+          ],
+          "center": [
+            461,
+            373
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            304,
+            182,
+            112,
+            112
+          ],
+          "center": [
+            360,
+            238
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            143,
+            249,
+            112,
+            112
+          ],
+          "center": [
+            199,
+            305
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            406,
+            319,
+            112,
+            112
+          ],
+          "center": [
+            462,
+            375
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            301,
+            181,
+            112,
+            112
+          ],
+          "center": [
+            357,
+            237
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            142,
+            251,
+            112,
+            112
+          ],
+          "center": [
+            198,
+            307
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            407,
+            321,
+            112,
+            112
+          ],
+          "center": [
+            463,
+            377
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            298,
+            180,
+            112,
+            112
+          ],
+          "center": [
+            354,
+            236
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            141,
+            252,
+            112,
+            112
+          ],
+          "center": [
+            197,
+            308
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            408,
+            323,
+            112,
+            112
+          ],
+          "center": [
+            464,
+            379
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            295,
+            178,
+            112,
+            112
+          ],
+          "center": [
+            351,
+            234
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            139,
+            254,
+            112,
+            112
+          ],
+          "center": [
+            195,
+            310
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            410,
+            326,
+            112,
+            112
+          ],
+          "center": [
+            466,
+            382
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            292,
+            177,
+            112,
+            112
+          ],
+          "center": [
+            348,
+            233
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            138,
+            256,
+            112,
+            112
+          ],
+          "center": [
+            194,
+            312
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            410,
+            328,
+            112,
+            112
+          ],
+          "center": [
+            466,
+            384
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            290,
+            175,
+            112,
+            112
+          ],
+          "center": [
+            346,
+            231
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            136,
+            258,
+            112,
+            112
+          ],
+          "center": [
+            192,
+            314
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            411,
+            331,
+            112,
+            112
+          ],
+          "center": [
+            467,
+            387
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            287,
+            175,
+            112,
+            112
+          ],
+          "center": [
+            343,
+            231
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            133,
+            260,
+            112,
+            112
+          ],
+          "center": [
+            189,
+            316
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            412,
+            335,
+            112,
+            112
+          ],
+          "center": [
+            468,
+            391
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            285,
+            174,
+            112,
+            112
+          ],
+          "center": [
+            341,
+            230
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            131,
+            263,
+            112,
+            112
+          ],
+          "center": [
+            187,
+            319
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            414,
+            338,
+            112,
+            112
+          ],
+          "center": [
+            470,
+            394
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            282,
+            173,
+            112,
+            112
+          ],
+          "center": [
+            338,
+            229
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            129,
+            266,
+            112,
+            112
+          ],
+          "center": [
+            185,
+            322
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            415,
+            342,
+            112,
+            112
+          ],
+          "center": [
+            471,
+            398
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            279,
+            172,
+            112,
+            112
+          ],
+          "center": [
+            335,
+            228
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 7,
+          "bbox": [
+            127,
+            269,
+            112,
+            112
+          ],
+          "center": [
+            183,
+            325
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            417,
+            346,
+            112,
+            112
+          ],
+          "center": [
+            473,
+            402
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            276,
+            171,
+            112,
+            112
+          ],
+          "center": [
+            332,
+            227
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            419,
+            350,
+            112,
+            112
+          ],
+          "center": [
+            475,
+            406
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            273,
+            169,
+            112,
+            112
+          ],
+          "center": [
+            329,
+            225
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 2,
+          "identity_id": 10,
+          "bbox": [
+            420,
+            354,
+            112,
+            112
+          ],
+          "center": [
+            476,
+            410
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            270,
+            168,
+            112,
+            112
+          ],
+          "center": [
+            326,
+            224
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 8,
+          "bbox": [
+            266,
+            166,
+            112,
+            112
+          ],
+          "center": [
+            322,
+            222
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 24,
+      "detections": []
+    }
+  ]
+}

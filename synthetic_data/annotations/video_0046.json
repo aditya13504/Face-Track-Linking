@@ -1,0 +1,634 @@
+{
+  "video_id": 46,
+  "num_frames": 25,
+  "image_size": [
+    640,
+    480
+  ],
+  "tracks": {
+    "0": {
+      "identity_id": 5,
+      "start_frame": 10,
+      "end_frame": 22,
+      "trajectory": [
+        [
+          402,
+          315
+        ],
+        [
+          402,
+          314
+        ],
+        [
+          402,
+          314
+        ],
+        [
+          403,
+          314
+        ],
+        [
+          403,
+          314
+        ],
+        [
+          404,
+          313
+        ],
+        [
+          405,
+          313
+        ],
+        [
+          406,
+          312
+        ],
+        [
+          407,
+          311
+        ],
+        [
+          408,
+          310
+        ],
+        [
+          410,
+          310
+        ],
+        [
+          411,
+          311
+        ],
+        [
+          412,
+          311
+        ]
+      ]
+    },
+    "1": {
+      "identity_id": 5,
+      "start_frame": 9,
+      "end_frame": 21,
+      "trajectory": [
+        [
+          372,
+          335
+        ],
+        [
+          372,
+          336
+        ],
+        [
+          372,
+          337
+        ],
+        [
+          373,
+          339
+        ],
+        [
+          374,
+          341
+        ],
+        [
+          374,
+          342
+        ],
+        [
+          374,
+          344
+        ],
+        [
+          375,
+          345
+        ],
+        [
+          377,
+          347
+        ],
+        [
+          378,
+          349
+        ],
+        [
+          379,
+          350
+        ],
+        [
+          381,
+          352
+        ],
+        [
+          382,
+          353
+        ]
+      ]
+    }
+  },
+  "frames": [
+    {
+      "frame_id": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 1,
+      "detections": []
+    },
+    {
+      "frame_id": 2,
+      "detections": []
+    },
+    {
+      "frame_id": 3,
+      "detections": []
+    },
+    {
+      "frame_id": 4,
+      "detections": []
+    },
+    {
+      "frame_id": 5,
+      "detections": []
+    },
+    {
+      "frame_id": 6,
+      "detections": []
+    },
+    {
+      "frame_id": 7,
+      "detections": []
+    },
+    {
+      "frame_id": 8,
+      "detections": []
+    },
+    {
+      "frame_id": 9,
+      "detections": [
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            316,
+            279,
+            112,
+            112
+          ],
+          "center": [
+            372,
+            335
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 10,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            346,
+            259,
+            112,
+            112
+          ],
+          "center": [
+            402,
+            315
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            316,
+            280,
+            112,
+            112
+          ],
+          "center": [
+            372,
+            336
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 11,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            346,
+            258,
+            112,
+            112
+          ],
+          "center": [
+            402,
+            314
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            316,
+            281,
+            112,
+            112
+          ],
+          "center": [
+            372,
+            337
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 12,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            346,
+            258,
+            112,
+            112
+          ],
+          "center": [
+            402,
+            314
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            317,
+            283,
+            112,
+            112
+          ],
+          "center": [
+            373,
+            339
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 13,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            347,
+            258,
+            112,
+            112
+          ],
+          "center": [
+            403,
+            314
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            318,
+            285,
+            112,
+            112
+          ],
+          "center": [
+            374,
+            341
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 14,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            347,
+            258,
+            112,
+            112
+          ],
+          "center": [
+            403,
+            314
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            318,
+            286,
+            112,
+            112
+          ],
+          "center": [
+            374,
+            342
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 15,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            348,
+            257,
+            112,
+            112
+          ],
+          "center": [
+            404,
+            313
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            318,
+            288,
+            112,
+            112
+          ],
+          "center": [
+            374,
+            344
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 16,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            349,
+            257,
+            112,
+            112
+          ],
+          "center": [
+            405,
+            313
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            319,
+            289,
+            112,
+            112
+          ],
+          "center": [
+            375,
+            345
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 17,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            350,
+            256,
+            112,
+            112
+          ],
+          "center": [
+            406,
+            312
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            321,
+            291,
+            112,
+            112
+          ],
+          "center": [
+            377,
+            347
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 18,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            351,
+            255,
+            112,
+            112
+          ],
+          "center": [
+            407,
+            311
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            322,
+            293,
+            112,
+            112
+          ],
+          "center": [
+            378,
+            349
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 19,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            352,
+            254,
+            112,
+            112
+          ],
+          "center": [
+            408,
+            310
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            323,
+            294,
+            112,
+            112
+          ],
+          "center": [
+            379,
+            350
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 20,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            354,
+            254,
+            112,
+            112
+          ],
+          "center": [
+            410,
+            310
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            325,
+            296,
+            112,
+            112
+          ],
+          "center": [
+            381,
+            352
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 21,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            355,
+            255,
+            112,
+            112
+          ],
+          "center": [
+            411,
+            311
+          ],
+          "confidence": 1.0
+        },
+        {
+          "track_id": 1,
+          "identity_id": 5,
+          "bbox": [
+            326,
+            297,
+            112,
+            112
+          ],
+          "center": [
+            382,
+            353
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 22,
+      "detections": [
+        {
+          "track_id": 0,
+          "identity_id": 5,
+          "bbox": [
+            356,
+            255,
+            112,
+            112
+          ],
+          "center": [
+            412,
+            311
+          ],
+          "confidence": 1.0
+        }
+      ]
+    },
+    {
+      "frame_id": 23,
+      "detections": []
+    },
+    {
+      "frame_id": 24,
+      "detections": []
+    }
+  ]
+}

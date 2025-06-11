@@ -1,0 +1,41 @@
+{  "model": {
+    "backbone": "resnet50",
+    "embedding_dim": 512,
+    "max_distance": 0.7
+  },
+  "training": {
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "num_epochs": 50,
+    "triplet_margin": 1.0,
+    "contrastive_margin": 2.0,
+    "weight_decay": 0.0001,
+    "scheduler_step_size": 10,
+    "scheduler_gamma": 0.5,
+    "loss_weights": {
+      "triplet": 0.4,
+      "contrastive": 0.4,
+      "motion": 0.2
+    },
+    "eval_interval": 5,
+    "save_interval": 10
+  },
+  "data": {
+    "data_dir": "synthetic_data",
+    "num_workers": 4,
+    "max_temporal_gap": 30
+  },
+  "synthetic_data": {
+    "num_identities": 15,
+    "num_videos": 100,
+    "frames_per_video": 40,
+    "max_faces_per_frame": 3,
+    "image_size": [640, 480],
+    "face_size": [112, 112]
+  },
+  "output": {
+    "checkpoint_dir": "checkpoints",
+    "log_dir": "logs",
+    "tensorboard_dir": "logs/tensorboard"
+  }
+}
